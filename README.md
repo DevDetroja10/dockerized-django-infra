@@ -1,6 +1,6 @@
 # 🐳 Dockerized Django Application with MySQL & NGINX
 
-This repository contains a **Dockerized environment** for an existing Django app using MySQL for persistence and NGINX as a reverse proxy. It demonstrates how to isolate services into containers, wire them together with Docker Compose, and manage startup order and health checks.
+I have created a Dockerized environment for an existing Django app, using MySQL for persistence and NGINX as a reverse proxy. It demonstrates how I isolated services into containers, wired them together with Docker Compose, and managed startup order and health checks.
 
 ---
 
